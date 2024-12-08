@@ -98,7 +98,7 @@
         "classnames": "^2.2.6",
         "commonmark": "^0.31.0",
         "counterpart": "^0.18.6",
-        "css-tree": "^3.0.0",
+        "css-tree": "^3.0.1",
         "diff-dom": "^5.0.0",
         "diff-match-patch": "^1.0.5",
         "emojibase-regex": "15.3.2",
